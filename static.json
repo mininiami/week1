@@ -1,7 +1,8 @@
 {
   "headers": {
    "/*": {
-      "X-Author": "niami"
+      "X-Author": "niami", 
+      "Access-Control-Allow-Origin": "*"
       } 
     }
 }
