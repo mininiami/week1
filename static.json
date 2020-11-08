@@ -3,7 +3,7 @@
    "/**": {
       "X-Author": "niami", 
       "Access-Control-Allow-Origin": "*", 
-      "X-Content-Type": "text/plain; charset=UTF-8"
+      "Content-Type": "text/plain; charset=UTF-8"
       } 
     }
 }
